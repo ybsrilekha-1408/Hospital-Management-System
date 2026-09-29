@@ -110,7 +110,3 @@ The SQL implementation includes:
 - Electronic Medical Records
 - Automated billing
 - Pharmacy inventory management
-
-## 📄 License
-
-This project is developed for academic and educational purposes.
